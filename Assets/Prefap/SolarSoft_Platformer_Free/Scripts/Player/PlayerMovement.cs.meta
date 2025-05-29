@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a02ea4bf504506c48b7852f058da7dba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Scripts/Player/PlayerMovement.cs
+  uploadId: 743288

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5a0dadfe0d0bed4ebf0916c2a59233f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Animations/Player_Jump.anim
+  uploadId: 743288

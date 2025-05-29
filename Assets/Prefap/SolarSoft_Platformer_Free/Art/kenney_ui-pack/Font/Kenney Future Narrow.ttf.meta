@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: dd6d8903851223b4193b1be973f1ebe8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kenney Future Narrow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Art/kenney_ui-pack/Font/Kenney Future
+    Narrow.ttf
+  uploadId: 743288

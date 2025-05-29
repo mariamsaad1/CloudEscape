@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9461ebe4e5a75e14caeef442984a0fa9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Animations/Player_Death.anim
+  uploadId: 743288

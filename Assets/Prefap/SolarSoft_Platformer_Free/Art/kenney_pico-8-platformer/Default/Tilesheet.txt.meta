@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5b23c6d1d9a7dc4b9a37dd405b8b864
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Art/kenney_pico-8-platformer/Default/Tilesheet.txt
+  uploadId: 743288

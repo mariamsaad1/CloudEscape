@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26d60102b4d8be342b3798d797cc0fd3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Prefabs/Collectibles/Star.prefab
+  uploadId: 743288

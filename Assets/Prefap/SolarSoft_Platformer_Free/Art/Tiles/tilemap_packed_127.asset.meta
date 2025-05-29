@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c852408d141da1e4db251534a7fec3cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Art/Tiles/tilemap_packed_127.asset
+  uploadId: 743288

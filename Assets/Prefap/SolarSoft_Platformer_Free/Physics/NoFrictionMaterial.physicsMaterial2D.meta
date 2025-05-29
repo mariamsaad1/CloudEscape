@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29ad74102e7e33b43992608f1ae8d0c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Physics/NoFrictionMaterial.physicsMaterial2D
+  uploadId: 743288

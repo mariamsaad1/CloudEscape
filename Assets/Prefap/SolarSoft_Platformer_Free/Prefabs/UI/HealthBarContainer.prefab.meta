@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14c6b85bf5e226e48b0ab128a17e6026
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Prefabs/UI/HealthBarContainer.prefab
+  uploadId: 743288

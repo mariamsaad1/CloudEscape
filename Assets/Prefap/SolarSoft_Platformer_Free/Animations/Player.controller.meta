@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b31d61acbb26ff642a0c88ee12a202ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Animations/Player.controller
+  uploadId: 743288

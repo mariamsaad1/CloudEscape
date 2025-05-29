@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55d25317551de1d41b49ed4b3e798f26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315032
+  packageName: SolarSoft Platformer Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SolarSoft_Platformer_Free/Scripts/Enemies/EnemyPatrol.cs
+  uploadId: 743288
